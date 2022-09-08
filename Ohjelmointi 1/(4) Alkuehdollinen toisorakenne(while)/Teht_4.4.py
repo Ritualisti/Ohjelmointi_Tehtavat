@@ -12,26 +12,3 @@ while feed != x:
         print("You guessed right!")
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
